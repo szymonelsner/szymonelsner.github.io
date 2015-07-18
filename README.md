@@ -1,2 +1,0 @@
-# szymonelsner.github.io
-Readme
